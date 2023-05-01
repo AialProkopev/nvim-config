@@ -1,1 +1,5 @@
 require('options')
+require('plugins')
+require('keymaps')
+require('netrw')
+require('telescope-settings')

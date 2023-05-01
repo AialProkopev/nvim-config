@@ -1,1 +1,4 @@
-Hello world
+# NEOVIM-CONFIG
+## Requirements:
+-- neovim
+-- ripgrep
