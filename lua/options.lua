@@ -12,6 +12,7 @@ local options = {
     softtabstop = 4, -- count of spaces in tab when removing
     expandtab = true, -- replace tabs to spaces
     smarttab = true, -- when clicking tab add at begging line add count of spaces equal shiftwidth 
+    statusline = '',
 }
 
 for k, v in pairs(options) do

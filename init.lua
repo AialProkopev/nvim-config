@@ -11,3 +11,6 @@ require('netrw-settings')
 require('telescope-settings')
 require('lsp-settings')
 require('autopairs-settings')
+require('whichkey-settings')
+require('cmp-settings')
+
