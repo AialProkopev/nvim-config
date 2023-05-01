@@ -1,4 +1,5 @@
-# NEOVIM-CONFIG
-## Requirements:
--- neovim
--- ripgrep
+# Neovim-config
+Requirements:
+
+ - neovim
+ - ripgrep
