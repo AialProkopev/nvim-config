@@ -2,4 +2,4 @@
 Requirements:
 
  - neovim
- - ripgrep
+ - [ripgrep](https://github.com/BurntSushi/ripgrep)
