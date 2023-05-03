@@ -1,5 +1,9 @@
 local lsp = require("lsp-zero")
 
+-- C language
+local lspconfig = require'lspconfig'
+lspconfig.clangd.setup{}
+
 lsp.preset("recommended")
 
 
