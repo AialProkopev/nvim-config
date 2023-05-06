@@ -29,7 +29,7 @@ return packer.startup(function(use)
     use {'nvim-telescope/telescope-fzf-native.nvim', run = 'make'}
     use 'neovim/nvim-lspconfig'
     use 'windwp/nvim-autopairs'
-    use 'mfussenegger/nvim-lldb'
+    use 'mfussenegger/nvim-dap'
     use {
       "folke/which-key.nvim",
       config = function()

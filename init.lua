@@ -13,4 +13,5 @@ require('lsp-settings')
 require('autopairs-settings')
 require('whichkey-settings')
 require('cmp-settings')
+require('lldb-settings')
 
