@@ -4,4 +4,4 @@ Requirements:
  - brew
  - neovim
  - [ripgrep](https://github.com/BurntSushi/ripgrep)
- - llvm
+ - clangd (llvm) or ccls
