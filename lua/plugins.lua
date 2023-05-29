@@ -64,6 +64,7 @@ return packer.startup(function(use)
 			{ "rafamadriz/friendly-snippets" }, -- Optional
 		},
 	}
+    use "blazkowolf/gruber-darker.nvim"
 	if packer_bootstrap then
 		require("packer").sync()
 	end
